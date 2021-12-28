@@ -1,0 +1,15 @@
+/home/Midnight/Documents/dotnet/Walking/Tracing/bin/Release/net6.0/Tracing
+/home/Midnight/Documents/dotnet/Walking/Tracing/bin/Release/net6.0/Tracing.deps.json
+/home/Midnight/Documents/dotnet/Walking/Tracing/bin/Release/net6.0/Tracing.runtimeconfig.json
+/home/Midnight/Documents/dotnet/Walking/Tracing/bin/Release/net6.0/Tracing.dll
+/home/Midnight/Documents/dotnet/Walking/Tracing/bin/Release/net6.0/ref/Tracing.dll
+/home/Midnight/Documents/dotnet/Walking/Tracing/bin/Release/net6.0/Tracing.pdb
+/home/Midnight/Documents/dotnet/Walking/Tracing/obj/Release/net6.0/Tracing.csproj.AssemblyReference.cache
+/home/Midnight/Documents/dotnet/Walking/Tracing/obj/Release/net6.0/Tracing.GeneratedMSBuildEditorConfig.editorconfig
+/home/Midnight/Documents/dotnet/Walking/Tracing/obj/Release/net6.0/Tracing.AssemblyInfoInputs.cache
+/home/Midnight/Documents/dotnet/Walking/Tracing/obj/Release/net6.0/Tracing.AssemblyInfo.cs
+/home/Midnight/Documents/dotnet/Walking/Tracing/obj/Release/net6.0/Tracing.csproj.CoreCompileInputs.cache
+/home/Midnight/Documents/dotnet/Walking/Tracing/obj/Release/net6.0/Tracing.dll
+/home/Midnight/Documents/dotnet/Walking/Tracing/obj/Release/net6.0/ref/Tracing.dll
+/home/Midnight/Documents/dotnet/Walking/Tracing/obj/Release/net6.0/Tracing.pdb
+/home/Midnight/Documents/dotnet/Walking/Tracing/obj/Release/net6.0/Tracing.genruntimeconfig.cache

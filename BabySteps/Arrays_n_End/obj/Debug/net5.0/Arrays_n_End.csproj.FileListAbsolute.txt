@@ -1,0 +1,16 @@
+/home/Midnight/Documents/dotnet/Arrays_n_End/bin/Debug/net5.0/Arrays_n_End
+/home/Midnight/Documents/dotnet/Arrays_n_End/bin/Debug/net5.0/Arrays_n_End.deps.json
+/home/Midnight/Documents/dotnet/Arrays_n_End/bin/Debug/net5.0/Arrays_n_End.runtimeconfig.json
+/home/Midnight/Documents/dotnet/Arrays_n_End/bin/Debug/net5.0/Arrays_n_End.runtimeconfig.dev.json
+/home/Midnight/Documents/dotnet/Arrays_n_End/bin/Debug/net5.0/Arrays_n_End.dll
+/home/Midnight/Documents/dotnet/Arrays_n_End/bin/Debug/net5.0/ref/Arrays_n_End.dll
+/home/Midnight/Documents/dotnet/Arrays_n_End/bin/Debug/net5.0/Arrays_n_End.pdb
+/home/Midnight/Documents/dotnet/Arrays_n_End/obj/Debug/net5.0/Arrays_n_End.csprojAssemblyReference.cache
+/home/Midnight/Documents/dotnet/Arrays_n_End/obj/Debug/net5.0/Arrays_n_End.GeneratedMSBuildEditorConfig.editorconfig
+/home/Midnight/Documents/dotnet/Arrays_n_End/obj/Debug/net5.0/Arrays_n_End.AssemblyInfoInputs.cache
+/home/Midnight/Documents/dotnet/Arrays_n_End/obj/Debug/net5.0/Arrays_n_End.AssemblyInfo.cs
+/home/Midnight/Documents/dotnet/Arrays_n_End/obj/Debug/net5.0/Arrays_n_End.csproj.CoreCompileInputs.cache
+/home/Midnight/Documents/dotnet/Arrays_n_End/obj/Debug/net5.0/Arrays_n_End.dll
+/home/Midnight/Documents/dotnet/Arrays_n_End/obj/Debug/net5.0/ref/Arrays_n_End.dll
+/home/Midnight/Documents/dotnet/Arrays_n_End/obj/Debug/net5.0/Arrays_n_End.pdb
+/home/Midnight/Documents/dotnet/Arrays_n_End/obj/Debug/net5.0/Arrays_n_End.genruntimeconfig.cache

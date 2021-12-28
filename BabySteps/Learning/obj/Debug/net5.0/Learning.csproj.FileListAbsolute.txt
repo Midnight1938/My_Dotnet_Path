@@ -1,0 +1,16 @@
+/home/Midnight/Documents/dotnet/Learning/bin/Debug/net5.0/Learning
+/home/Midnight/Documents/dotnet/Learning/bin/Debug/net5.0/Learning.deps.json
+/home/Midnight/Documents/dotnet/Learning/bin/Debug/net5.0/Learning.runtimeconfig.json
+/home/Midnight/Documents/dotnet/Learning/bin/Debug/net5.0/Learning.runtimeconfig.dev.json
+/home/Midnight/Documents/dotnet/Learning/bin/Debug/net5.0/Learning.dll
+/home/Midnight/Documents/dotnet/Learning/bin/Debug/net5.0/ref/Learning.dll
+/home/Midnight/Documents/dotnet/Learning/bin/Debug/net5.0/Learning.pdb
+/home/Midnight/Documents/dotnet/Learning/obj/Debug/net5.0/Learning.csprojAssemblyReference.cache
+/home/Midnight/Documents/dotnet/Learning/obj/Debug/net5.0/Learning.GeneratedMSBuildEditorConfig.editorconfig
+/home/Midnight/Documents/dotnet/Learning/obj/Debug/net5.0/Learning.AssemblyInfoInputs.cache
+/home/Midnight/Documents/dotnet/Learning/obj/Debug/net5.0/Learning.AssemblyInfo.cs
+/home/Midnight/Documents/dotnet/Learning/obj/Debug/net5.0/Learning.csproj.CoreCompileInputs.cache
+/home/Midnight/Documents/dotnet/Learning/obj/Debug/net5.0/Learning.dll
+/home/Midnight/Documents/dotnet/Learning/obj/Debug/net5.0/ref/Learning.dll
+/home/Midnight/Documents/dotnet/Learning/obj/Debug/net5.0/Learning.pdb
+/home/Midnight/Documents/dotnet/Learning/obj/Debug/net5.0/Learning.genruntimeconfig.cache

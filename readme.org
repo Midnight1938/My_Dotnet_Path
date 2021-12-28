@@ -1,0 +1,16 @@
+#+title: Path to learn Dotnet
+#+author: Skshm
+
+** Starting engines
+
+- Installing and setting up dotnet 6 in Feodra
+#+BEGIN_SRC bash
+sudo dnf install dotnet-sdk-5.0 aspnetcore-runtime-5.0
+#+END_SRC
+
+- [[https://www.nuget.org/][Websites (NuGet)]]
+
+** Learning
+
+- [[https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/][First steps with C#]]
+- [[https://docs.microsoft.com/en-us/learn/paths/build-dotnet-applications-csharp/][learn .NET by Microsoft]]

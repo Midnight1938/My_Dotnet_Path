@@ -1,0 +1,16 @@
+/home/Midnight/Documents/dotnet/FirstApp/bin/Debug/net5.0/FirstApp
+/home/Midnight/Documents/dotnet/FirstApp/bin/Debug/net5.0/FirstApp.deps.json
+/home/Midnight/Documents/dotnet/FirstApp/bin/Debug/net5.0/FirstApp.runtimeconfig.json
+/home/Midnight/Documents/dotnet/FirstApp/bin/Debug/net5.0/FirstApp.runtimeconfig.dev.json
+/home/Midnight/Documents/dotnet/FirstApp/bin/Debug/net5.0/FirstApp.dll
+/home/Midnight/Documents/dotnet/FirstApp/bin/Debug/net5.0/ref/FirstApp.dll
+/home/Midnight/Documents/dotnet/FirstApp/bin/Debug/net5.0/FirstApp.pdb
+/home/Midnight/Documents/dotnet/FirstApp/obj/Debug/net5.0/FirstApp.csprojAssemblyReference.cache
+/home/Midnight/Documents/dotnet/FirstApp/obj/Debug/net5.0/FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/Midnight/Documents/dotnet/FirstApp/obj/Debug/net5.0/FirstApp.AssemblyInfoInputs.cache
+/home/Midnight/Documents/dotnet/FirstApp/obj/Debug/net5.0/FirstApp.AssemblyInfo.cs
+/home/Midnight/Documents/dotnet/FirstApp/obj/Debug/net5.0/FirstApp.csproj.CoreCompileInputs.cache
+/home/Midnight/Documents/dotnet/FirstApp/obj/Debug/net5.0/FirstApp.dll
+/home/Midnight/Documents/dotnet/FirstApp/obj/Debug/net5.0/ref/FirstApp.dll
+/home/Midnight/Documents/dotnet/FirstApp/obj/Debug/net5.0/FirstApp.pdb
+/home/Midnight/Documents/dotnet/FirstApp/obj/Debug/net5.0/FirstApp.genruntimeconfig.cache
