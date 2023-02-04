@@ -1,0 +1,15 @@
+/workspace/BabySteps/Learning/bin/Debug/net7.0/Learning
+/workspace/BabySteps/Learning/bin/Debug/net7.0/Learning.deps.json
+/workspace/BabySteps/Learning/bin/Debug/net7.0/Learning.runtimeconfig.json
+/workspace/BabySteps/Learning/bin/Debug/net7.0/Learning.dll
+/workspace/BabySteps/Learning/bin/Debug/net7.0/Learning.pdb
+/workspace/BabySteps/Learning/obj/Debug/net7.0/Learning.csproj.AssemblyReference.cache
+/workspace/BabySteps/Learning/obj/Debug/net7.0/Learning.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/BabySteps/Learning/obj/Debug/net7.0/Learning.AssemblyInfoInputs.cache
+/workspace/BabySteps/Learning/obj/Debug/net7.0/Learning.AssemblyInfo.cs
+/workspace/BabySteps/Learning/obj/Debug/net7.0/Learning.csproj.CoreCompileInputs.cache
+/workspace/BabySteps/Learning/obj/Debug/net7.0/Learning.dll
+/workspace/BabySteps/Learning/obj/Debug/net7.0/refint/Learning.dll
+/workspace/BabySteps/Learning/obj/Debug/net7.0/Learning.pdb
+/workspace/BabySteps/Learning/obj/Debug/net7.0/Learning.genruntimeconfig.cache
+/workspace/BabySteps/Learning/obj/Debug/net7.0/ref/Learning.dll

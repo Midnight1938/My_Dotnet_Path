@@ -1,0 +1,15 @@
+/workspace/Test/bin/Debug/net7.0/Test
+/workspace/Test/bin/Debug/net7.0/Test.deps.json
+/workspace/Test/bin/Debug/net7.0/Test.runtimeconfig.json
+/workspace/Test/bin/Debug/net7.0/Test.dll
+/workspace/Test/bin/Debug/net7.0/Test.pdb
+/workspace/Test/obj/Debug/net7.0/Test.csproj.AssemblyReference.cache
+/workspace/Test/obj/Debug/net7.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Test/obj/Debug/net7.0/Test.AssemblyInfoInputs.cache
+/workspace/Test/obj/Debug/net7.0/Test.AssemblyInfo.cs
+/workspace/Test/obj/Debug/net7.0/Test.csproj.CoreCompileInputs.cache
+/workspace/Test/obj/Debug/net7.0/Test.dll
+/workspace/Test/obj/Debug/net7.0/refint/Test.dll
+/workspace/Test/obj/Debug/net7.0/Test.pdb
+/workspace/Test/obj/Debug/net7.0/Test.genruntimeconfig.cache
+/workspace/Test/obj/Debug/net7.0/ref/Test.dll

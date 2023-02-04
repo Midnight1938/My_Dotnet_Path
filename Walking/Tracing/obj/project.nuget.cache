@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KodV68Pg90DftKQlVnve8RhDgJxL8SNb64pMpT9JXTFoU+w4ho+ewELlFNgAZkAOIBWaaLUahwUNMbkAVPo+Qw==",
+  "dgSpecHash": "nKtD72TunqKgYq7ERn4nmz3CXqANN9+a2YGjf8fJPMCRdECAgJVa6TT4mH2ot22c3/WQ8LswCpJiUmZEnqUiag==",
   "success": true,
-  "projectFilePath": "/home/Midnight/Documents/dotnet/Walking/Tracing/Tracing.csproj",
+  "projectFilePath": "/workspace/Walking/Tracing/Tracing.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

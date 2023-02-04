@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "E26INfs95wLcC1lJdImduuOqW1HjUmpPNE7u5uyC6Rghxjt8AMse0xXiYHVhg2A/jmKEnofACO1DvHaY0qQ8mw==",
+  "dgSpecHash": "ryDl7t12rJWb6QrF8qejFYCxM7YUS3bpZ3v1UqZl5z5E4wtKBXliWuilhILttdTRZeRO1T9LdzgZJ5A5xcQpvw==",
   "success": true,
-  "projectFilePath": "/home/Midnight/Documents/dotnet/FirstApp/FirstApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspace/BabySteps/FirstApp/FirstApp.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.17/microsoft.netcore.app.host.linux-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

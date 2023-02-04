@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uVqgnlcxWJNBA4dCuQtAQXLmudHltIckViNaaGp4yn5irTOn5NqX7yekkI+y2YOmaMv+sMfShaR3VKn2aeEZOA==",
+  "dgSpecHash": "/jahll9uGlWW28hGJt4BJg8FkEEiedawb1w5G2gSAcS6BAnxb2BZcHbYTuDlUSdQt+vblK7NkwXdS9VCDWFXKw==",
   "success": true,
-  "projectFilePath": "/home/Midnight/Documents/dotnet/Arrays_n_End/Arrays_n_End.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspace/BabySteps/Arrays_n_End/Arrays_n_End.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.17/microsoft.netcore.app.host.linux-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

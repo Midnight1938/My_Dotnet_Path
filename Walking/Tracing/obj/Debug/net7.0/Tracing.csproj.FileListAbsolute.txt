@@ -1,0 +1,15 @@
+/workspace/Walking/Tracing/bin/Debug/net7.0/Tracing
+/workspace/Walking/Tracing/bin/Debug/net7.0/Tracing.deps.json
+/workspace/Walking/Tracing/bin/Debug/net7.0/Tracing.runtimeconfig.json
+/workspace/Walking/Tracing/bin/Debug/net7.0/Tracing.dll
+/workspace/Walking/Tracing/bin/Debug/net7.0/Tracing.pdb
+/workspace/Walking/Tracing/obj/Debug/net7.0/Tracing.csproj.AssemblyReference.cache
+/workspace/Walking/Tracing/obj/Debug/net7.0/Tracing.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Walking/Tracing/obj/Debug/net7.0/Tracing.AssemblyInfoInputs.cache
+/workspace/Walking/Tracing/obj/Debug/net7.0/Tracing.AssemblyInfo.cs
+/workspace/Walking/Tracing/obj/Debug/net7.0/Tracing.csproj.CoreCompileInputs.cache
+/workspace/Walking/Tracing/obj/Debug/net7.0/Tracing.dll
+/workspace/Walking/Tracing/obj/Debug/net7.0/refint/Tracing.dll
+/workspace/Walking/Tracing/obj/Debug/net7.0/Tracing.pdb
+/workspace/Walking/Tracing/obj/Debug/net7.0/Tracing.genruntimeconfig.cache
+/workspace/Walking/Tracing/obj/Debug/net7.0/ref/Tracing.dll

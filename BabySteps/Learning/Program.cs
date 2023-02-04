@@ -48,10 +48,10 @@ namespace Learning
 
             //* COMbimationnnn
             string projectName = "First-Project";
-Console.WriteLine($@"\nC:\Output\{projectName}\Data"); //! immune to \n
+            Console.WriteLine($@"\nC:\Output\{projectName}\Data is immune to \n"); //! immune to \n
 
 
-            Console.Write("\n\nGoing to numbers");
+            Console.Write("\n\nGoing to numbers\n");
             int value = 1;
 
             value = value + 1;

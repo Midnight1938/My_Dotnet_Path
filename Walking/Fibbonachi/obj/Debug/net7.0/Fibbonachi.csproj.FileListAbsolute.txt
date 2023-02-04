@@ -1,0 +1,15 @@
+/workspace/Walking/Fibbonachi/bin/Debug/net7.0/Fibbonachi
+/workspace/Walking/Fibbonachi/bin/Debug/net7.0/Fibbonachi.deps.json
+/workspace/Walking/Fibbonachi/bin/Debug/net7.0/Fibbonachi.runtimeconfig.json
+/workspace/Walking/Fibbonachi/bin/Debug/net7.0/Fibbonachi.dll
+/workspace/Walking/Fibbonachi/bin/Debug/net7.0/Fibbonachi.pdb
+/workspace/Walking/Fibbonachi/obj/Debug/net7.0/Fibbonachi.csproj.AssemblyReference.cache
+/workspace/Walking/Fibbonachi/obj/Debug/net7.0/Fibbonachi.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Walking/Fibbonachi/obj/Debug/net7.0/Fibbonachi.AssemblyInfoInputs.cache
+/workspace/Walking/Fibbonachi/obj/Debug/net7.0/Fibbonachi.AssemblyInfo.cs
+/workspace/Walking/Fibbonachi/obj/Debug/net7.0/Fibbonachi.csproj.CoreCompileInputs.cache
+/workspace/Walking/Fibbonachi/obj/Debug/net7.0/Fibbonachi.dll
+/workspace/Walking/Fibbonachi/obj/Debug/net7.0/refint/Fibbonachi.dll
+/workspace/Walking/Fibbonachi/obj/Debug/net7.0/Fibbonachi.pdb
+/workspace/Walking/Fibbonachi/obj/Debug/net7.0/Fibbonachi.genruntimeconfig.cache
+/workspace/Walking/Fibbonachi/obj/Debug/net7.0/ref/Fibbonachi.dll
