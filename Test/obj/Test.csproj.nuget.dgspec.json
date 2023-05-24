@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspace/Test/Test.csproj": {}
+    "/home/midnight/Documents/Dev/My_Dotnet_Path/Test/Test.csproj": {}
   },
   "projects": {
-    "/workspace/Test/Test.csproj": {
+    "/home/midnight/Documents/Dev/My_Dotnet_Path/Test/Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspace/Test/Test.csproj",
+        "projectUniqueName": "/home/midnight/Documents/Dev/My_Dotnet_Path/Test/Test.csproj",
         "projectName": "Test",
-        "projectPath": "/workspace/Test/Test.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/workspace/Test/obj/",
+        "projectPath": "/home/midnight/Documents/Dev/My_Dotnet_Path/Test/Test.csproj",
+        "packagesPath": "/home/midnight/.nuget/packages/",
+        "outputPath": "/home/midnight/Documents/Dev/My_Dotnet_Path/Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/midnight/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

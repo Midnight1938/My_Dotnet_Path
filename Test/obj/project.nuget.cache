@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nQsmb8ah0gpP7dXMHyq+nguKdO8IPaR37yU9T1ebXHJKORi1W/9Fwvmqb5aw1GDHbHZgk9kORYIZJOqP2374pw==",
+  "dgSpecHash": "vjWDKsKN73UR6ODMSgxye8fe6xtSRYxjn4aHA7NT2URd0+gMW/2QkvXMbGvFQxaYeayaO3zb2zO4tbeXLBZbUw==",
   "success": true,
-  "projectFilePath": "/workspace/Test/Test.csproj",
+  "projectFilePath": "/home/midnight/Documents/Dev/My_Dotnet_Path/Test/Test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
