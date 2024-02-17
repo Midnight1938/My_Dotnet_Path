@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vjWDKsKN73UR6ODMSgxye8fe6xtSRYxjn4aHA7NT2URd0+gMW/2QkvXMbGvFQxaYeayaO3zb2zO4tbeXLBZbUw==",
+  "dgSpecHash": "a72E6gTDMQsJSqjxCEVVcOXDWcSRnhkXTStBtbT5TZr/Mj+sU4A3lMS8xTQufBv78tu035MphxI2L+hMB4Fz2Q==",
   "success": true,
-  "projectFilePath": "/home/midnight/Documents/Dev/My_Dotnet_Path/Test/Test.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/skshm/Documents/Dev/My_Dotnet_Path/Test/Test.csproj",
+  "expectedPackageFiles": [
+    "/home/skshm/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/skshm/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/skshm/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.14/microsoft.netcore.app.host.linux-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

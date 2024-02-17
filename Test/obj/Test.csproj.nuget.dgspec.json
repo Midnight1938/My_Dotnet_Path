@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/midnight/Documents/Dev/My_Dotnet_Path/Test/Test.csproj": {}
+    "/home/skshm/Documents/Dev/My_Dotnet_Path/Test/Test.csproj": {}
   },
   "projects": {
-    "/home/midnight/Documents/Dev/My_Dotnet_Path/Test/Test.csproj": {
+    "/home/skshm/Documents/Dev/My_Dotnet_Path/Test/Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/midnight/Documents/Dev/My_Dotnet_Path/Test/Test.csproj",
+        "projectUniqueName": "/home/skshm/Documents/Dev/My_Dotnet_Path/Test/Test.csproj",
         "projectName": "Test",
-        "projectPath": "/home/midnight/Documents/Dev/My_Dotnet_Path/Test/Test.csproj",
-        "packagesPath": "/home/midnight/.nuget/packages/",
-        "outputPath": "/home/midnight/Documents/Dev/My_Dotnet_Path/Test/obj/",
+        "projectPath": "/home/skshm/Documents/Dev/My_Dotnet_Path/Test/Test.csproj",
+        "packagesPath": "/home/skshm/.nuget/packages/",
+        "outputPath": "/home/skshm/Documents/Dev/My_Dotnet_Path/Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/midnight/.nuget/NuGet/NuGet.Config"
+          "/home/skshm/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,12 +48,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

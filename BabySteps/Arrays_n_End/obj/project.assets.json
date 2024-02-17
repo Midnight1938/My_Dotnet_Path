@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/skshm/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspace/BabySteps/Arrays_n_End/Arrays_n_End.csproj",
+      "projectUniqueName": "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/Arrays_n_End/Arrays_n_End.csproj",
       "projectName": "Arrays_n_End",
-      "projectPath": "/workspace/BabySteps/Arrays_n_End/Arrays_n_End.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/workspace/BabySteps/Arrays_n_End/obj/",
+      "projectPath": "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/Arrays_n_End/Arrays_n_End.csproj",
+      "packagesPath": "/home/skshm/.nuget/packages/",
+      "outputPath": "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/Arrays_n_End/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/skshm/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

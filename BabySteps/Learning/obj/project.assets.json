@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/skshm/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspace/BabySteps/Learning/Learning.csproj",
+      "projectUniqueName": "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/Learning/Learning.csproj",
       "projectName": "Learning",
-      "projectPath": "/workspace/BabySteps/Learning/Learning.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/workspace/BabySteps/Learning/obj/",
+      "projectPath": "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/Learning/Learning.csproj",
+      "packagesPath": "/home/skshm/.nuget/packages/",
+      "outputPath": "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/Learning/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/skshm/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -54,12 +54,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

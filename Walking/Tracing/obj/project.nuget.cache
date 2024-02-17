@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "nKtD72TunqKgYq7ERn4nmz3CXqANN9+a2YGjf8fJPMCRdECAgJVa6TT4mH2ot22c3/WQ8LswCpJiUmZEnqUiag==",
+  "dgSpecHash": "88ufenpyVbmL3p4rqNIvpk1YaGr7cYFT3q4rP3tVPxOQgiaoKuhGHDPmIZji3Br2PQxgAwvuYcVWaNTtgmUd4g==",
   "success": true,
-  "projectFilePath": "/workspace/Walking/Tracing/Tracing.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/skshm/Documents/Dev/My_Dotnet_Path/Walking/Tracing/Tracing.csproj",
+  "expectedPackageFiles": [
+    "/home/skshm/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/skshm/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/skshm/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.14/microsoft.netcore.app.host.linux-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

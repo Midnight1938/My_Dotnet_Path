@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/Midnight/Documents/dotnet/Walking/Package_Management/Package_Management.csproj": {}
+    "/home/skshm/Documents/Dev/My_Dotnet_Path/Walking/Package_Management/Package_Management.csproj": {}
   },
   "projects": {
-    "/home/Midnight/Documents/dotnet/Walking/Package_Management/Package_Management.csproj": {
+    "/home/skshm/Documents/Dev/My_Dotnet_Path/Walking/Package_Management/Package_Management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/Midnight/Documents/dotnet/Walking/Package_Management/Package_Management.csproj",
+        "projectUniqueName": "/home/skshm/Documents/Dev/My_Dotnet_Path/Walking/Package_Management/Package_Management.csproj",
         "projectName": "Package_Management",
-        "projectPath": "/home/Midnight/Documents/dotnet/Walking/Package_Management/Package_Management.csproj",
-        "packagesPath": "/home/Midnight/.nuget/packages/",
-        "outputPath": "/home/Midnight/Documents/dotnet/Walking/Package_Management/obj/",
+        "projectPath": "/home/skshm/Documents/Dev/My_Dotnet_Path/Walking/Package_Management/Package_Management.csproj",
+        "packagesPath": "/home/skshm/.nuget/packages/",
+        "outputPath": "/home/skshm/Documents/Dev/My_Dotnet_Path/Walking/Package_Management/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/Midnight/.nuget/NuGet/NuGet.Config"
+          "/home/skshm/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -49,16 +49,31 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

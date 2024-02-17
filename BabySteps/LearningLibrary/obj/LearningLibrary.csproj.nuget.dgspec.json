@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/Midnight/Documents/dotnet/LearningLibrary/LearningLibrary.csproj": {}
+    "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/LearningLibrary/LearningLibrary.csproj": {}
   },
   "projects": {
-    "/home/Midnight/Documents/dotnet/LearningLibrary/LearningLibrary.csproj": {
+    "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/LearningLibrary/LearningLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/Midnight/Documents/dotnet/LearningLibrary/LearningLibrary.csproj",
+        "projectUniqueName": "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/LearningLibrary/LearningLibrary.csproj",
         "projectName": "LearningLibrary",
-        "projectPath": "/home/Midnight/Documents/dotnet/LearningLibrary/LearningLibrary.csproj",
-        "packagesPath": "/home/Midnight/.nuget/packages/",
-        "outputPath": "/home/Midnight/Documents/dotnet/LearningLibrary/obj/",
+        "projectPath": "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/LearningLibrary/LearningLibrary.csproj",
+        "packagesPath": "/home/skshm/.nuget/packages/",
+        "outputPath": "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/LearningLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/Midnight/.nuget/NuGet/NuGet.Config"
+          "/home/skshm/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -43,16 +43,31 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/5.0.206/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

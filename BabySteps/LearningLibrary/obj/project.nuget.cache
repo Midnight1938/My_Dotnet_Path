@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Lz8MvCw8Vyipy4o7z8u6yhjxv7XxpybNeS+JrIE3xAltND2DBsGj8kYPYjz6RQKxkuJpU7UQf9jWN5P8J+ML4w==",
+  "dgSpecHash": "OBZJa8UkWJCHmCNACSIxuliNgC0pbLSalU/9NQb4Wf0pplj4bOhc5N8vGLK/gXL8GspjwLMBQo5DLUkiVLx0mw==",
   "success": true,
-  "projectFilePath": "/home/Midnight/Documents/dotnet/LearningLibrary/LearningLibrary.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/LearningLibrary/LearningLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/skshm/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/skshm/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/skshm/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.17/microsoft.netcore.app.host.linux-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

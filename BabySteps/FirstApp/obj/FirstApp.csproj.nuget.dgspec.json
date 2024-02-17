@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspace/BabySteps/FirstApp/FirstApp.csproj": {}
+    "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/FirstApp/FirstApp.csproj": {}
   },
   "projects": {
-    "/workspace/BabySteps/FirstApp/FirstApp.csproj": {
+    "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/FirstApp/FirstApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspace/BabySteps/FirstApp/FirstApp.csproj",
+        "projectUniqueName": "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/FirstApp/FirstApp.csproj",
         "projectName": "FirstApp",
-        "projectPath": "/workspace/BabySteps/FirstApp/FirstApp.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/workspace/BabySteps/FirstApp/obj/",
+        "projectPath": "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/FirstApp/FirstApp.csproj",
+        "packagesPath": "/home/skshm/.nuget/packages/",
+        "outputPath": "/home/skshm/Documents/Dev/My_Dotnet_Path/BabySteps/FirstApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/skshm/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

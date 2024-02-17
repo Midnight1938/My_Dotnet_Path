@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "OOtMervMZ3+f1R3uEO7DTNLaoU3TRmTKCjFgZ9r5FfGlJPFyWrqbjygIa1QTOsKbotcyC1lx9PFbh8Z5uekmkA==",
+  "dgSpecHash": "dBpNERKNZXlrCDM7rPP/UAPST4wQuV/DwC2VhjMA6PR5qRYuYuGeO6pZn5RpzKrmAAg/iCVIpc/qzvH6ztpmeg==",
   "success": true,
-  "projectFilePath": "/workspace/Walking/Fibbonachi/Fibbonachi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/skshm/Documents/Dev/My_Dotnet_Path/Walking/Fibbonachi/Fibbonachi.csproj",
+  "expectedPackageFiles": [
+    "/home/skshm/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/skshm/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/skshm/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.14/microsoft.netcore.app.host.linux-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
